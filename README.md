@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/file/d/1oW3wTKUx57H9jXP0RNMyAXsZy2y1pMei/view?usp=drive_link" width="full" height="450"/>
 <h1>Mehedi Hasan Emon</h1>
-<h4>🌐 📊 Data Scientist | 🤖 AI Researcher | 📈 Digital Marketer
+<h4> 📊 Data Scientist | 🤖 AI Researcher | 📈 Digital Marketer
 
 Passionate about transforming data into actionable insights and building intelligent systems using machine learning and AI. Skilled in data analysis, research, and digital marketing strategies. Committed to innovation, problem-solving, and creating impactful solutions in technology and business. Always eager to explore new challenges and contribute to cutting-edge advancements.</h4>
 
