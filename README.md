@@ -66,14 +66,19 @@ Passionate about transforming data into actionable insights and building intelli
 <h2>Technologies I Use</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" margin-right="5px" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" margin-right="5px" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" margin-right="5px" alt="react" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" margin-right="5px" alt="tailwind" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" margin-right="5px" alt="firebase"  width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" margin-right="5px" alt="mongodb" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" margin-right="5px" alt="nodejs" width="50" height="50"/>
-  <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" margin-right="5px" alt="express" color="white" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" width="50" height="50"/>
 </p>
 
 
