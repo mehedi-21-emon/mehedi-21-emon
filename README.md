@@ -70,15 +70,7 @@ Passionate about transforming data into actionable insights and building intelli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  <img src="[https://seeklogo.com/vector-logo/484488/google-scholar](https://icons8.com/icons/set/google-scholar)" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" width="50" height="50"/>
+  
 </p>
 
 
