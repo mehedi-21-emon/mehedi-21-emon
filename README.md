@@ -69,9 +69,11 @@ Passionate about transforming data into actionable insights and building intelli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="50" height="50"/>
+  <img src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png" width="50" height="50"/>
   <img src="https://www.citypng.com/public/uploads/preview/hd-facebook-meta-logo-png-701751694777707v6bil7t1yh.png" width="50" height="50"/>
   <img src="https://images.icon-icons.com/2699/PNG/512/google_ads_logo_icon_169088.png" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3133/3133302.png" width="50" height="50"/>
+  
   
 </p>
 
