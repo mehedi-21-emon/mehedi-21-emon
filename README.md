@@ -80,5 +80,5 @@ Passionate about transforming data into actionable insights and building intelli
 
 <h2>Reach Me Out</h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahtesham-sajid-68aa2022a/" target="blank"><img margin-right="10px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?20210220164014" alt="https://www.linkedin.com/in/ahtesham-sajid-68aa2022a/" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mehedihasanemon021/" target="_blank"><img margin-right="10px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?20210220164014" alt="https://www.linkedin.com/in/mehedihasanemon021/" height="50" width="50" /></a>
 </p>
