@@ -7,12 +7,19 @@ Passionate about transforming data into actionable insights and building intelli
 <h2>Overview</h2>
 
 • Currently working as a Data Analyst at Innova Arc
+
 • Working as a Digital Marketing Executive at Cyber Bit Byte
+
 • Experienced in Machine Learning, Data Analytics, and AI research
+
 • Conducting research on malware detection, cyber attack classification, and URL detection
+
 • Skilled in running Meta Ads, Google Ads, Instagram Ads, and SEO campaigns
+
 • Strong ability to analyze data, build models, and interpret results for decision-making
+
 • Active participant and organizer in NASA Space Apps Challenge
+
 • Passionate about Prompt Engineering, NLP, and Explainable AI
 
 
