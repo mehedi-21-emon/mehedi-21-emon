@@ -65,7 +65,7 @@ Passionate about transforming data into actionable insights and building intelli
 
 <h2>Technologies I Use</h2>
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" margin-right="5px" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" margin-right="5px" alt="css3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" margin-right="5px" alt="javascript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" margin-right="5px" alt="react" width="50" height="50"/>
