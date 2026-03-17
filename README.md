@@ -34,7 +34,7 @@ Passionate about transforming data into actionable insights and building intelli
 
 • Achieved high accuracy with model interpretability
 
-  - Live site link: https://drive.google.com/file/d/1bk9ofNzkUMJ6b0bSSfbCf-LrwXG_1uLD/view?usp=drive_link/</p><br/>
+  - Live paper link: https://drive.google.com/file/d/1bk9ofNzkUMJ6b0bSSfbCf-LrwXG_1uLD/view?usp=drive_link/</p><br/>
 
   <p>
 <h3>Cyber Attack Classification (IEEE)</h3>
@@ -45,7 +45,7 @@ Passionate about transforming data into actionable insights and building intelli
   
   • Identified best-performing models for multi-class classification.
 
-  - Live site link: https://colab.research.google.com/drive/1BzVyva1eHGlHAjhm5T_xZlEdf_V7FWpw?usp=drive_link/</p><br/>
+  - Live Code link: https://colab.research.google.com/drive/1BzVyva1eHGlHAjhm5T_xZlEdf_V7FWpw?usp=drive_link/</p><br/>
 
   <p>
 <h3>URL Detection System (Ongoing)</h3>
@@ -56,12 +56,10 @@ Passionate about transforming data into actionable insights and building intelli
 
   • Focused on improving cybersecurity through intelligent systems.
 
-  - Live site link: https://colab.research.google.com/drive/1LKZ60fT_PChZGe_x9FfdrOnqEaLke9X7?usp=drive_link/</p><br/>
+  - Live Code link: https://colab.research.google.com/drive/1LKZ60fT_PChZGe_x9FfdrOnqEaLke9X7?usp=drive_link/</p><br/>
 </div>
 
 
-<h2>Current Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid3366&" alt="sajid3366" /></p>
 
 <h2>Technologies I Use</h2>
 <p align="center">
@@ -81,4 +79,7 @@ Passionate about transforming data into actionable insights and building intelli
 <h2>Reach Me Out</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/mehedihasanemon021/" target="_blank"><img margin-right="10px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?20210220164014" alt="https://www.linkedin.com/in/mehedihasanemon021/" height="50" width="50" /></a>
+<a href="https://www.facebook.com/mehedihasan.emon.12914" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="https://www.facebook.com/mehedihasan.emon.12914"height="50" width="50" />
+</a>
 </p>
