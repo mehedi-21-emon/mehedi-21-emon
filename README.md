@@ -34,7 +34,7 @@ Passionate about transforming data into actionable insights and building intelli
 
 • Achieved high accuracy with model interpretability
 
-  - Live site link: https://tasty-tooth.surge.sh/</p><br/>
+  - Live site link: https://drive.google.com/file/d/1bk9ofNzkUMJ6b0bSSfbCf-LrwXG_1uLD/view?usp=drive_link/</p><br/>
 
   <p>
 <h3>Cyber Attack Classification (IEEE)</h3>
@@ -45,7 +45,7 @@ Passionate about transforming data into actionable insights and building intelli
   
   • Identified best-performing models for multi-class classification.
 
-  - Live site link: https://wrong-motion.surge.sh/</p><br/>
+  - Live site link: https://colab.research.google.com/drive/1BzVyva1eHGlHAjhm5T_xZlEdf_V7FWpw?usp=drive_link/</p><br/>
 
   <p>
 <h3>URL Detection System (Ongoing)</h3>
