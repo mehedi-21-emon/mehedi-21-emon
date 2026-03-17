@@ -1,15 +1,18 @@
 <img src="https://wallpapercave.com/wp/wp8903914.jpg" width="full" height="450"/>
 <h1>Mehedi Hasan Emon</h1>
-<h4>🌐 Web Developer | Transforming ideas into interactive and user-friendly websites. Expertise in front-end technologies with a keen eye for design. Committed to delivering seamless digital experiences. Passionate about innovation, coding, and creating solutions that make an impact. Let's bring your vision to life!</h4>
+<h4>🌐 📊 Data Scientist | 🤖 AI Researcher | 📈 Digital Marketer
+Passionate about transforming data into actionable insights and building intelligent systems using machine learning and AI. Skilled in data analysis, research, and digital marketing strategies. Committed to innovation, problem-solving, and creating impactful solutions in technology and business. Always eager to explore new challenges and contribute to cutting-edge advancements.</h4>
 
 <h2>Overview</h2>
 
-- I’m currently working as a frontend developer at GameBD
-- Integrate APIs and ensure proper data rendering on the UI.
-- Review and resolve issues related to design or functionality.
-- Test the website thoroughly and report any issues or bugs to supervisors.
-- Develop web pages based on design specifications and implement required functionalities.
-- Collaborate closely with backend developers to ensure seamless integration and performance.
+• Currently working as a Data Analyst at Innova Arc
+• Working as a Digital Marketing Executive at Cyber Bit Byte
+• Experienced in Machine Learning, Data Analytics, and AI research
+• Conducting research on malware detection, cyber attack classification, and URL detection
+• Skilled in running Meta Ads, Google Ads, Instagram Ads, and SEO campaigns
+• Strong ability to analyze data, build models, and interpret results for decision-making
+• Active participant and organizer in NASA Space Apps Challenge
+• Passionate about Prompt Engineering, NLP, and Explainable AI
 
 
 <h2>Project Details</h2>
