@@ -56,7 +56,7 @@ Passionate about transforming data into actionable insights and building intelli
 
   • Focused on improving cybersecurity through intelligent systems.
 
-  - Live site link: https://smooth-channel.surge.sh/</p><br/>
+  - Live site link: https://colab.research.google.com/drive/1LKZ60fT_PChZGe_x9FfdrOnqEaLke9X7?usp=drive_link/</p><br/>
 </div>
 
 
