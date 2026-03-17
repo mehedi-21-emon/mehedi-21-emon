@@ -70,8 +70,8 @@ Passionate about transforming data into actionable insights and building intelli
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="50" height="50"/>
