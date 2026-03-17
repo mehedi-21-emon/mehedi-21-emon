@@ -1,7 +1,7 @@
-<img src="https://wallpapercave.com/wp/wp8903914.jpg" width="full" height="450"/>
+<img src="[https://wallpapercave.com/wp/wp8903914.jpg](https://github.com/user-attachments/assets/39e051f7-ae7c-4270-a958-64c8a6488497)" width="full" height="450"/>
 <h1>Mehedi Hasan Emon</h1>
 <h4>🌐 📊 Data Scientist | 🤖 AI Researcher | 📈 Digital Marketer
-  
+
 Passionate about transforming data into actionable insights and building intelligent systems using machine learning and AI. Skilled in data analysis, research, and digital marketing strategies. Committed to innovation, problem-solving, and creating impactful solutions in technology and business. Always eager to explore new challenges and contribute to cutting-edge advancements.</h4>
 
 <h2>Overview</h2>
