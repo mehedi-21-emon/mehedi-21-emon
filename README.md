@@ -1,4 +1,4 @@
-<img src="[https://wallpapercave.com/wp/wp8903914.jpg](https://github.com/user-attachments/assets/39e051f7-ae7c-4270-a958-64c8a6488497)" width="full" height="450"/>
+<img src="[https://wallpapercave.com/wp/wp8903914.jpg]width="full" height="450"/>
 <h1>Mehedi Hasan Emon</h1>
 <h4>🌐 📊 Data Scientist | 🤖 AI Researcher | 📈 Digital Marketer
 
