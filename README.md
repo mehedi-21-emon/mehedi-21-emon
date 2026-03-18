@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1oW3wTKUx57H9jXP0RNMyAXsZy2y1pMei/view?usp=drive_link" width="full" height="450"/>
+<img src="https://drive.google.com/drive/my-drive" width="full" height="450"/>
 <h1>Mehedi Hasan Emon</h1>
 <h4> 📊 Data Scientist | 🤖 AI Researcher | 📈 Digital Marketer
 
